@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Factorio</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="James Gemarino">
+    <meta name="keywords" content="Lab Exercise 1">
+    <meta name="date-submitted" content="27-08-2024">
+  </head>
+  <body>
+    <div>
+      <span>
+        <h3>5 Reasons Why this game is my favorite</h3>
+        <ol>
+          <li>you solve bottlenecks and problems</li>
+          <li>you pollute the world</li>
+          <li>you can create artillery</li>
+          <li>you can play the way you play</li>
+          <li>very cool game</li>
+        </ol>
+        <p>Copyright &copy; James t. Gemarino 9-Potassium</p>
+      </span>
+      <h1>Factorio</h1>
+      <p>The game follows an engineer who crash-lands on an alien planet and must harvest resources and create automated industry to build a rocket; however, as it is a sandbox game, players can continue the game past the end of the storyline.</p>
+    </div>
+  </body>
+</html>
